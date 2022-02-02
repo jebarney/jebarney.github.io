@@ -6,10 +6,8 @@ ___
 > __ETH__ Zürich, Switzerland - Master of Science
 > __Virginia Tech__ Blacksburg, VA - Bachelor in Architecture
 ___
-___
 ## EXPERIENCE
 > __Automation Freelancer__ Monterrey, Mexico
-___
 ___
 ## CERTIFICATIONS & SKILLS
 > Google Coursera__ IT Automation with Python Professional Certificate__.
